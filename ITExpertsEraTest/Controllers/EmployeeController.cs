@@ -8,6 +8,9 @@ using System.Threading.Tasks;
 
 namespace ITExpertsEraTest.Controllers
 {
+    /// <summary>
+    // Hello this is Employee 
+    /// </summary>
     public class EmployeeController : Controller
     {
         private readonly IEmployeeRepository _employeeRepository;
