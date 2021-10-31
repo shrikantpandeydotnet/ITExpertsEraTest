@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ITExpertsEraTest.Models
 {
-    // Employee Model Class.
+    // Employee Model Class Example.
     public class Employee
     {
         [Key]
